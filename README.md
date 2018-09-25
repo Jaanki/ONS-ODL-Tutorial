@@ -1,6 +1,6 @@
 # ONS-ODL-Tutorial
 
-Instructions:
+Instructions:</br>
 
 1.  You must be able to SSH to the virthost machine as root without a password from the machine running Ansible:</br>
     $ ssh-keygen root@127.0.0.2
